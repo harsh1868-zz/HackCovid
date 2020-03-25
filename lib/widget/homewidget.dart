@@ -41,9 +41,9 @@ class _HomeNavItemsState extends State<HomeNavItems> {
             getHomePageNavItems(
                 context: context,
                 icon: Icons.insert_chart,
-                title: 'Reports',
-                subTitle: 'Data and info related to the disease',
-                navigate: 'reports'
+                title: 'State(IND)',
+                subTitle: 'States infected by COVID-19',
+                navigate: 'state'
                 ),
             SizedBox(
               width: 16.0,

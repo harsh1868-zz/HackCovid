@@ -66,8 +66,6 @@ class _HomePageState extends State<HomePage> {
                              Text(
                               "Requirments",
                               style: Theme.of(context).textTheme.title.apply(color:Colors.red),
-
-                              
                             ),
                             SizedBox(
                               height: 8.0,
@@ -86,22 +84,7 @@ class _HomePageState extends State<HomePage> {
                         
                       Container(
                         padding: EdgeInsets.all(24.0),
-                        // child: Column(
-                        //   crossAxisAlignment: CrossAxisAlignment.start,
-                        //   children: <Widget>[
-                        //     Text(
-                        //       'News',
-                        //       style: Theme.of(context).textTheme.title,
-                        //     ),
-                        //     SizedBox(
-                        //       height: 24.0,
-                        //     ),
-                        //     Center(
-                        //       child:
-                        //           Image.asset('assets/images/coming_soon.png'),
-                        //     ),
-                        //   ],
-                        // ),
+                       
                       )
                     ],
                   ),
