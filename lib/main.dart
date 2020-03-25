@@ -1,6 +1,8 @@
-// import 'package:covid_updates/Screens/CountryReportPage.dart';
+import 'package:beautifulsoup/beautifulsoup.dart';
+
 // import 'package:covid_updates/Screens/countriesPage.dart';
 import 'package:covid_tracker/pages/homepage.dart';
+import 'package:covid_tracker/pages/preventionPage.dart';
 // import 'package:covid_updates/Screens/preventionPage.dart';
 // import 'package:covid_updates/Screens/reportPage.dart';
 import 'package:covid_tracker/pages/symptomsPage.dart';
@@ -20,15 +22,18 @@ class MyApp extends StatelessWidget {
           Theme.of(context).textTheme
         ),
       ),
+      
       debugShowCheckedModeBanner: false,
       routes: {
+
          '/': (context) => HomePage(),
         //  '/reports': (context) => ReportPage(),
          '/symptoms': (context) => SymptomsPage(),
-        //  '/prevention': (context) => PreventioPage(),
-        //  '/countries' : (context) => Countriespage(),
-        //  '/countryReport' : (context) => CountryReportPage(),
+         '/prevention': (context) => PreventioPage(),
+        //  '/countries' : (context) => MyApp1(),
+        //  '/indiacountryReport' : (context) => MyApp1(),
       },
+      
     );
   }
 }
