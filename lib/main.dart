@@ -3,7 +3,7 @@
 import 'package:covid_tracker/pages/homepage.dart';
 // import 'package:covid_updates/Screens/preventionPage.dart';
 // import 'package:covid_updates/Screens/reportPage.dart';
-// import 'package:covid_updates/Screens/symptomsPage.dart';
+import 'package:covid_tracker/pages/symptomsPage.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       routes: {
          '/': (context) => HomePage(),
         //  '/reports': (context) => ReportPage(),
-        //  '/symptoms': (context) => SymptomsPage(),
+         '/symptoms': (context) => SymptomsPage(),
         //  '/prevention': (context) => PreventioPage(),
         //  '/countries' : (context) => Countriespage(),
         //  '/countryReport' : (context) => CountryReportPage(),
