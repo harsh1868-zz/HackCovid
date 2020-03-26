@@ -18,15 +18,15 @@ This app has four main option on homescreen .
  
 We have small requirement section which will suggest you to use mask , use gloves means dont touch anywhere , use senitizer and use      soap.
 
-💻 Requirements
+# Requirements
 Any Operating System (i.e MacOS X, Linux, Windows)
 Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 
-✨ Features
+# Features
  See all cases statistics.
  Read guides.
  
-📸 Screenshots
+ # Screenshots
 
 
 <div style="background-color:rgb(169,169,169); text-align:center">
