@@ -1,7 +1,4 @@
-📈
-# covid_tracker
-
-PRs Welcome Twitter Follow
+# covid_tracker - Corona Prevention 
 
 # About App
 A simple Flutter app to track COVID-19 cases. It gives you information about all around world and for india as state level.
