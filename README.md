@@ -30,5 +30,19 @@ Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
  Read guides.
  
 📸 Screenshots
-
+![Home Screen](/screenshot/Screenshot_2020-03-26-12-26-25-730_com.example.covid_tracker.png)
   
+![Home Screen](/screenshot/Screenshot_2020-03-26-12-26-36-043_com.example.covid_tracker.png)
+
+![Symptoms](/screenshot/Screenshot_2020-03-26-12-26-41-010_com.example.covid_tracker.png)
+
+![Symptoms](/screenshot/Screenshot_2020-03-26-12-26-46-574_com.example.covid_tracker.png)
+
+![preventio](/screenshot/Screenshot_2020-03-26-12-26-51-221_com.example.covid_tracker.png)
+
+![State](/screenshot/Screenshot_2020-03-26-12-26-58-438_com.example.covid_tracker.png)
+
+![Country](/screenshot/Screenshot_2020-03-26-12-27-14-819_com.example.covid_tracker.png)
+
+
+![Country](/screenshot/Screenshot_2020-03-26-12-27-25-887_com.example.covid_tracker.png)
